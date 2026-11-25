@@ -1,0 +1,74 @@
+{
+  "extensionName": {
+    "message": "Feedly Floating Navigation",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "Add three draggable floating buttons with customizable shortcuts to Feedly.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "Feedly Floating Navigation settings",
+    "description": "Toolbar action title"
+  },
+  "popupTitle": {
+    "message": "Feedly Floating Navigation",
+    "description": "Popup heading"
+  },
+  "popupHint": {
+    "message": "Choose the single-character keyboard shortcuts for the three floating buttons.",
+    "description": "Popup description"
+  },
+  "previousLabel": {
+    "message": "Previous topic (top button)",
+    "description": "Previous shortcut label"
+  },
+  "nextLabel": {
+    "message": "Next topic (bottom button)",
+    "description": "Next shortcut label"
+  },
+  "saveButton": {
+    "message": "Save settings",
+    "description": "Save button"
+  },
+  "resetButton": {
+    "message": "Reset to K / M / N",
+    "description": "Reset button"
+  },
+  "positionHint": {
+    "message": "On Feedly, drag either button to move the pair. The position is saved automatically.",
+    "description": "Position help"
+  },
+  "savedStatus": {
+    "message": "Settings saved.",
+    "description": "Saved status"
+  },
+  "invalidKey": {
+    "message": "Enter one English letter or digit for each shortcut.",
+    "description": "Invalid shortcut error"
+  },
+  "duplicateKey": {
+    "message": "All three shortcuts must be different.",
+    "description": "Duplicate shortcut error"
+  },
+  "resetStatus": {
+    "message": "Shortcuts reset to K / M / N.",
+    "description": "Reset status"
+  },
+  "previousButtonTitle": {
+    "message": "Previous topic ({0})",
+    "description": "Previous floating button title"
+  },
+  "nextButtonTitle": {
+    "message": "Next topic ({0})",
+    "description": "Next floating button title"
+  },
+  "readLabel": {
+    "message": "Mark read / unread (middle button)",
+    "description": "Read/unread shortcut label"
+  },
+  "readButtonTitle": {
+    "message": "Mark read / unread ({0})",
+    "description": "Read/unread floating button title"
+  }
+}

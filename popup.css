@@ -1,0 +1,28 @@
+* { box-sizing: border-box; }
+body {
+  width: 280px;
+  margin: 0;
+  color: #202124;
+  background: #fff;
+  font: 14px/1.45 Arial, "Noto Sans TC", sans-serif;
+}
+main { padding: 16px; }
+h1 { margin: 0 0 6px; font-size: 17px; }
+.hint, .footnote { color: #666; font-size: 12px; }
+.hint { margin: 0 0 16px; }
+label { display: block; margin: 12px 0 5px; font-weight: 600; }
+input {
+  width: 100%; height: 36px; padding: 6px 10px;
+  border: 1px solid #c7c7c7; border-radius: 7px;
+  font-size: 16px; text-transform: uppercase;
+}
+input:focus { outline: 2px solid #8ab4f8; border-color: #4285f4; }
+.actions { display: flex; gap: 8px; margin-top: 16px; }
+button {
+  flex: 1; min-height: 34px; border: 0; border-radius: 7px;
+  padding: 7px 8px; cursor: pointer; font-weight: 600;
+}
+.primary { color: #fff; background: #1a73e8; }
+.secondary { color: #333; background: #eee; }
+#status { min-height: 18px; margin: 9px 0 0; color: #188038; font-size: 12px; }
+.footnote { margin: 8px 0 0; }

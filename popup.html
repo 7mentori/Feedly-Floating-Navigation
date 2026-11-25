@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <main>
+    <h1 data-i18n="popupTitle"></h1>
+    <p class="hint" data-i18n="popupHint"></p>
+    <label for="previousKey" data-i18n="previousLabel"></label>
+    <input id="previousKey" maxlength="1" autocomplete="off" spellcheck="false">
+    <label for="readKey" data-i18n="readLabel"></label>
+    <input id="readKey" maxlength="1" autocomplete="off" spellcheck="false">
+    <label for="nextKey" data-i18n="nextLabel"></label>
+    <input id="nextKey" maxlength="1" autocomplete="off" spellcheck="false">
+    <div class="actions">
+      <button id="save" class="primary" data-i18n="saveButton"></button>
+      <button id="reset" class="secondary" data-i18n="resetButton"></button>
+    </div>
+    <p id="status" role="status" aria-live="polite"></p>
+    <p class="footnote" data-i18n="positionHint"></p>
+  </main>
+  <script src="popup.js"></script>
+</body>
+</html>

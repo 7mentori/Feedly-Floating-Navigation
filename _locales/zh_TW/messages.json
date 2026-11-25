@@ -1,0 +1,74 @@
+{
+  "extensionName": {
+    "message": "Feedly 浮動導覽",
+    "description": "擴充功能名稱"
+  },
+  "extensionDescription": {
+    "message": "在 Feedly 加入三個可拖曳、可自訂快捷鍵的浮動按鈕。",
+    "description": "擴充功能說明"
+  },
+  "actionTitle": {
+    "message": "Feedly 浮動導覽設定",
+    "description": "工具列按鈕提示"
+  },
+  "popupTitle": {
+    "message": "Feedly 浮動導覽",
+    "description": "設定視窗標題"
+  },
+  "popupHint": {
+    "message": "設定三個浮動按鈕要送出的單一英文字母或數字快捷鍵。",
+    "description": "設定說明"
+  },
+  "previousLabel": {
+    "message": "上一個主題（上方按鈕）",
+    "description": "上一個快捷鍵標籤"
+  },
+  "nextLabel": {
+    "message": "下一個主題（下方按鈕）",
+    "description": "下一個快捷鍵標籤"
+  },
+  "saveButton": {
+    "message": "儲存設定",
+    "description": "儲存按鈕"
+  },
+  "resetButton": {
+    "message": "恢復 K / M / N",
+    "description": "重設按鈕"
+  },
+  "positionHint": {
+    "message": "在 Feedly 頁面按住任一按鈕拖曳，即可移動整組按鈕；位置會自動記憶。",
+    "description": "位置說明"
+  },
+  "savedStatus": {
+    "message": "設定已儲存。",
+    "description": "儲存成功訊息"
+  },
+  "invalidKey": {
+    "message": "請為每個按鈕輸入一個英文字母或數字。",
+    "description": "快捷鍵格式錯誤"
+  },
+  "duplicateKey": {
+    "message": "三個快捷鍵不能重複。",
+    "description": "快捷鍵重複錯誤"
+  },
+  "resetStatus": {
+    "message": "已恢復預設 K / M / N。",
+    "description": "重設完成訊息"
+  },
+  "previousButtonTitle": {
+    "message": "上一個主題（{0}）",
+    "description": "上一個浮動按鈕提示"
+  },
+  "nextButtonTitle": {
+    "message": "下一個主題（{0}）",
+    "description": "下一個浮動按鈕提示"
+  },
+  "readLabel": {
+    "message": "標記已讀／未讀（中間按鈕）",
+    "description": "已讀未讀快捷鍵標籤"
+  },
+  "readButtonTitle": {
+    "message": "標記已讀／未讀（{0}）",
+    "description": "已讀未讀浮動按鈕提示"
+  }
+}
